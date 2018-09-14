@@ -19,6 +19,6 @@ a demo for urule
 > tomcat的bin路径下双击startup.up文件启动项目
 ![](docs/images/tomcatDeploymentStep2.png)
 
-> 启动tomcat之后在浏览器地址栏中输入ureport的访问地址
+> 启动tomcat之后在浏览器地址栏中输入urule的访问地址
 http://localhost:8080/urule-demo/urule/frame
 ![](docs/images/designer.png)
