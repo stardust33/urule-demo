@@ -10,14 +10,14 @@
     <packaging>war</packaging>
 
     <properties>
-        <urule-console-version>2.1.6</urule-console-version>
+        <urule-console-pro-version>2.0.6</urule-console-pro-version>
     </properties>
 
     <dependencies>
         <dependency>
-             <groupId>com.bstek.urule</groupId>
-             <artifactId>urule-console</artifactId>
-            <version>${urule-console-version}</version>
+            <groupId>com.bstek.urule</groupId>
+            <artifactId>urule-console-pro</artifactId>
+            <version>${urule-console-pro-version}</version>
         </dependency>
     </dependencies>
     <distributionManagement>
